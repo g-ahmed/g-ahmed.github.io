@@ -1,0 +1,477 @@
+#EXTM3U#EXTINF:-1 group-title="1234_red_ip", |FR| Canal+ Sport
+http://red.ipfox.org:8080/1234/12345678/2422#EXTINF:-1 group-title="1234_red_ip", |FR| RMC Sport 1
+http://red.ipfox.org:8080/1234/12345678/2355#EXTINF:-1 group-title="1234_red_ip", |FR| RMC Sport 2
+http://red.ipfox.org:8080/1234/12345678/2354#EXTINF:-1 group-title="1234_red_ip", |FR| RMC Sport 3
+http://red.ipfox.org:8080/1234/12345678/2353#EXTINF:-1 group-title="1234_red_ip", |FR| RMC Sport 4
+http://red.ipfox.org:8080/1234/12345678/2352#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 2
+http://red.ipfox.org:8080/1234/12345678/32160#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 3 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32148#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 4 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32147#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 5 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32146#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 6 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32145#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 7 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32144#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 8 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32143#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 9 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32142#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 10 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32141#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 11 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32140#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 12 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32139#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 13 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32138#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport 14 HD -Event-
+http://red.ipfox.org:8080/1234/12345678/32137#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 3 -Event-
+http://red.ipfox.org:8080/1234/12345678/32136#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 4 -Event-
+http://red.ipfox.org:8080/1234/12345678/32135#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 5 -Event-
+http://red.ipfox.org:8080/1234/12345678/32134#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 6 -Event-
+http://red.ipfox.org:8080/1234/12345678/32133#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 7 -Event-
+http://red.ipfox.org:8080/1234/12345678/32132#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 8 -Event-
+http://red.ipfox.org:8080/1234/12345678/32131#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 9 -Event-
+http://red.ipfox.org:8080/1234/12345678/32130#EXTINF:-1 group-title="1234_red_ip", |DE| Sky Sport Bundesliga 10 -Event-
+http://red.ipfox.org:8080/1234/12345678/32129#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT NEW FHD
+http://red.ipfox.org:8080/1234/12345678/32106#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT AUS1 HD
+http://red.ipfox.org:8080/1234/12345678/32039#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 1 -Event-
+http://red.ipfox.org:8080/1234/12345678/32037#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 2 -Event-
+http://red.ipfox.org:8080/1234/12345678/32036#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 3 -Event-
+http://red.ipfox.org:8080/1234/12345678/32035#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 4 -Event-
+http://red.ipfox.org:8080/1234/12345678/32034#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 5 -Event-
+http://red.ipfox.org:8080/1234/12345678/32033#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 6 -Event-
+http://red.ipfox.org:8080/1234/12345678/32032#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 7 -Event-
+http://red.ipfox.org:8080/1234/12345678/32031#EXTINF:-1 group-title="1234_red_ip", |DE|SKY SPORT 8 -Event-
+http://red.ipfox.org:8080/1234/12345678/32030#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 9 -Event-
+http://red.ipfox.org:8080/1234/12345678/32029#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 10 -Event-
+http://red.ipfox.org:8080/1234/12345678/32028#EXTINF:-1 group-title="1234_red_ip", |DE|SKY SPORT 11 -Event-
+http://red.ipfox.org:8080/1234/12345678/32027#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 12 -Event-
+http://red.ipfox.org:8080/1234/12345678/32026#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 13 -Event-
+http://red.ipfox.org:8080/1234/12345678/32025#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT 14 -Event-
+http://red.ipfox.org:8080/1234/12345678/32024#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT BUN 1 HD
+http://red.ipfox.org:8080/1234/12345678/32023#EXTINF:-1 group-title="1234_red_ip", |DE| SKY SPORT NEW HD
+http://red.ipfox.org:8080/1234/12345678/32013#EXTINF:-1 group-title="1234_red_ip", |UK| BT Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/24169#EXTINF:-1 group-title="1234_red_ip", |UK| BT Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/24171#EXTINF:-1 group-title="1234_red_ip", |UK| BT Sport 3 HD
+http://red.ipfox.org:8080/1234/12345678/24173#EXTINF:-1 group-title="1234_red_ip", |UK| BT Sport ESPN
+http://red.ipfox.org:8080/1234/12345678/24175#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports News
+http://red.ipfox.org:8080/1234/12345678/24147#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Main Event
+http://red.ipfox.org:8080/1234/12345678/24149#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Football
+http://red.ipfox.org:8080/1234/12345678/24151#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Premier League
+http://red.ipfox.org:8080/1234/12345678/24153#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Mix
+http://red.ipfox.org:8080/1234/12345678/24156#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Arena
+http://red.ipfox.org:8080/1234/12345678/24157#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports NFL
+http://red.ipfox.org:8080/1234/12345678/24159#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Golf
+http://red.ipfox.org:8080/1234/12345678/24161#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Cricket
+http://red.ipfox.org:8080/1234/12345678/24163#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports F1
+http://red.ipfox.org:8080/1234/12345678/24165#EXTINF:-1 group-title="1234_red_ip", |UK| SKY Sports Racing
+http://red.ipfox.org:8080/1234/12345678/24167#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport Serie A FHD
+http://red.ipfox.org:8080/1234/12345678/18322#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport F1 HD
+http://red.ipfox.org:8080/1234/12345678/18323#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport MotoGP HD
+http://red.ipfox.org:8080/1234/12345678/18324#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport 1
+http://red.ipfox.org:8080/1234/12345678/18325#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport 24 HD
+http://red.ipfox.org:8080/1234/12345678/18326#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport Football HD
+http://red.ipfox.org:8080/1234/12345678/18327#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport NBA HD
+http://red.ipfox.org:8080/1234/12345678/18328#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport Plus HD
+http://red.ipfox.org:8080/1234/12345678/18329#EXTINF:-1 group-title="1234_red_ip", |IT| Sky Sport Uno FHD
+http://red.ipfox.org:8080/1234/12345678/18331#EXTINF:-1 group-title="1234_red_ip", |PL| Canal+ Sport
+http://red.ipfox.org:8080/1234/12345678/28012#EXTINF:-1 group-title="1234_red_ip", |PL| Canal+ Sport 2
+http://red.ipfox.org:8080/1234/12345678/28011#EXTINF:-1 group-title="htyrvtit_mains_", DE : SKY SPORT 1
+http://mains.best:2086/htyrvtit/3650427/92331#EXTINF:-1 group-title="htyrvtit_mains_", DE : SKY SPORT 2
+http://mains.best:2086/htyrvtit/3650427/92332#EXTINF:-1 group-title="htyrvtit_mains_", DE : SKY SPORT AUSTRIA
+http://mains.best:2086/htyrvtit/3650427/92341#EXTINF:-1 group-title="htyrvtit_mains_", DE : SKY SPORT AUSTRIA 2
+http://mains.best:2086/htyrvtit/3650427/92342#EXTINF:-1 group-title="htyrvtit_mains_", F1: SKY SPORTS F1
+http://mains.best:2086/htyrvtit/3650427/101046#EXTINF:-1 group-title="htyrvtit_mains_", FR : RMC SPORT 1
+http://mains.best:2086/htyrvtit/3650427/92216#EXTINF:-1 group-title="htyrvtit_mains_", FR : RMC SPORT 2
+http://mains.best:2086/htyrvtit/3650427/92217#EXTINF:-1 group-title="htyrvtit_mains_", FR : RMC SPORT 3
+http://mains.best:2086/htyrvtit/3650427/92218#EXTINF:-1 group-title="htyrvtit_mains_", FR : RMC SPORT 4
+http://mains.best:2086/htyrvtit/3650427/92219#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS 1
+http://mains.best:2086/htyrvtit/3650427/67062#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS 2
+http://mains.best:2086/htyrvtit/3650427/67063#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS 3
+http://mains.best:2086/htyrvtit/3650427/67075#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS ESPN
+http://mains.best:2086/htyrvtit/3650427/67076#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS EXTRA 1
+http://mains.best:2086/htyrvtit/3650427/100001#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS EXTRA 2
+http://mains.best:2086/htyrvtit/3650427/100002#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS EXTRA 3
+http://mains.best:2086/htyrvtit/3650427/100003#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS EXTRA 4
+http://mains.best:2086/htyrvtit/3650427/100004#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS EXTRA 5
+http://mains.best:2086/htyrvtit/3650427/100005#EXTINF:-1 group-title="htyrvtit_mains_", GB : BT SPORTS EXTRA 6
+http://mains.best:2086/htyrvtit/3650427/100006#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS ARENA
+http://mains.best:2086/htyrvtit/3650427/85931#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS CRICKET
+http://mains.best:2086/htyrvtit/3650427/51106#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS F1
+http://mains.best:2086/htyrvtit/3650427/67056#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS FOOTBALL
+http://mains.best:2086/htyrvtit/3650427/67057#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS GOLF
+http://mains.best:2086/htyrvtit/3650427/67059#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS MAIN EVENT
+http://mains.best:2086/htyrvtit/3650427/67058#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS MIX
+http://mains.best:2086/htyrvtit/3650427/67061#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS NEWS
+http://mains.best:2086/htyrvtit/3650427/67091#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS NFL
+http://mains.best:2086/htyrvtit/3650427/85930#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS PREMIER LEAGUE
+http://mains.best:2086/htyrvtit/3650427/67060#EXTINF:-1 group-title="htyrvtit_mains_", GB : SKY SPORTS RACING
+http://mains.best:2086/htyrvtit/3650427/47763#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT ARENA
+http://mains.best:2086/htyrvtit/3650427/94134#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT COLLECTION
+http://mains.best:2086/htyrvtit/3650427/94133#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT F1
+http://mains.best:2086/htyrvtit/3650427/94132#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT FOOTBALL
+http://mains.best:2086/htyrvtit/3650427/94131#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT MOTOGP
+http://mains.best:2086/htyrvtit/3650427/94130#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT NBA
+http://mains.best:2086/htyrvtit/3650427/94129#EXTINF:-1 group-title="htyrvtit_mains_", IT : SKY SPORT UNO
+http://mains.best:2086/htyrvtit/3650427/94128#EXTINF:-1 group-title="htyrvtit_mains_", PGA : SKY SPORTS GOLF
+http://mains.best:2086/htyrvtit/3650427/99142#EXTINF:-1 group-title="htyrvtit_mains_", PL : CANAL+ SPORT
+http://mains.best:2086/htyrvtit/3650427/92788#EXTINF:-1 group-title="htyrvtit_mains_", PL : CANAL+ SPORT 2
+http://mains.best:2086/htyrvtit/3650427/92790#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 01
+http://mains.best:2086/htyrvtit/3650427/104440#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 02
+http://mains.best:2086/htyrvtit/3650427/104441#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 03
+http://mains.best:2086/htyrvtit/3650427/104442#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 04
+http://mains.best:2086/htyrvtit/3650427/104443#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 05
+http://mains.best:2086/htyrvtit/3650427/104444#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 06
+http://mains.best:2086/htyrvtit/3650427/104445#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 07
+http://mains.best:2086/htyrvtit/3650427/104446#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 08
+http://mains.best:2086/htyrvtit/3650427/104447#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT 09
+http://mains.best:2086/htyrvtit/3650427/104448#EXTINF:-1 group-title="htyrvtit_mains_", SPORTS : NZ SKY SPORT SELECT
+http://mains.best:2086/htyrvtit/3650427/104449#EXTINF:-1 group-title="287994016251_xcui_v", SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994016251/287994016251/16749#EXTINF:-1 group-title="6751612969535740_aptv_c", CANAL+ SPORT HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/7804.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", CANAL+ SPORT FHD
+http://aptv.cc:8000/live/6751612969535740/1593574628/167.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", CANAL+ SPORT SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/3941.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", FR | CANAL+ SPORT FHD [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/36107.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT 1 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/15817.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT 2 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/15818.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", AF | CANAL+ SPORT 1
+http://aptv.cc:8000/live/6751612969535740/1593574628/76583.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", AF | CANAL+ SPORT 2
+http://aptv.cc:8000/live/6751612969535740/1593574628/76584.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", AF | CANAL+ SPORT 3
+http://aptv.cc:8000/live/6751612969535740/1593574628/76585.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", AF | CANAL+ SPORT 4
+http://aptv.cc:8000/live/6751612969535740/1593574628/76586.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", AF | CANAL+ SPORT 5
+http://aptv.cc:8000/live/6751612969535740/1593574628/76587.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 3 
+http://aptv.cc:8000/live/6751612969535740/1593574628/20308.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 4 
+http://aptv.cc:8000/live/6751612969535740/1593574628/20309.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 5 
+http://aptv.cc:8000/live/6751612969535740/1593574628/20310.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 6 
+http://aptv.cc:8000/live/6751612969535740/1593574628/20605.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 7 
+http://aptv.cc:8000/live/6751612969535740/1593574628/20604.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 8 
+http://aptv.cc:8000/live/6751612969535740/1593574628/20603.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 9
+http://aptv.cc:8000/live/6751612969535740/1593574628/67431.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 10
+http://aptv.cc:8000/live/6751612969535740/1593574628/76339.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 11
+http://aptv.cc:8000/live/6751612969535740/1593574628/76340.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT LIVE 12
+http://aptv.cc:8000/live/6751612969535740/1593574628/76341.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT 1 FHD
+http://aptv.cc:8000/live/6751612969535740/1593574628/377.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT 2 FHD
+http://aptv.cc:8000/live/6751612969535740/1593574628/376.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT 1 SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/7476.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", RMC SPORT 2 SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/7550.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", FR | RMC SPORT 1 [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/35869.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | Sky Sport Uno 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39840.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT UNO SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52060.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | Sky Sport CALCIO
+http://aptv.cc:8000/live/6751612969535740/1593574628/39841.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT FOOTBALL 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39848.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 24 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/39843.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 24 SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52059.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport F1 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39844.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT F1 SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52063.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport MotoGP HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/39845.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT MOTOGP SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52065.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT ACTION 
+http://aptv.cc:8000/live/6751612969535740/1593574628/52067.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT ARENA 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39847.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT ARENA SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52061.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport TENNIS
+http://aptv.cc:8000/live/6751612969535740/1593574628/39851.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT TENNIS SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52062.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT NBA 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39849.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT NBA SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/52066.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 1 BAR HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/77811.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 1 BAR SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/77812.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 2 BAR HD 
+http://aptv.cc:8000/live/6751612969535740/1593574628/77813.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 2 BAR SD 
+http://aptv.cc:8000/live/6751612969535740/1593574628/77814.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 251 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39854.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 252 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39857.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 253 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39859.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 254 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39861.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 255 
+http://aptv.cc:8000/live/6751612969535740/1593574628/39862.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY Sport 256
+http://aptv.cc:8000/live/6751612969535740/1593574628/39864.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 257
+http://aptv.cc:8000/live/6751612969535740/1593574628/80668.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT NEWS HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11955.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT F1 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/67437.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT1 PL HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11947.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT1 PL SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11939.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 2 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11946.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 2 SD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11940.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT AUSTRIA 
+http://aptv.cc:8000/live/6751612969535740/1593574628/35008.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 2 AUSTRIA 
+http://aptv.cc:8000/live/6751612969535740/1593574628/78892.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 3 AUSTRIA
+http://aptv.cc:8000/live/6751612969535740/1593574628/78893.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 4 AUSTRIA
+http://aptv.cc:8000/live/6751612969535740/1593574628/78894.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 5 AUSTRIA
+http://aptv.cc:8000/live/6751612969535740/1593574628/80837.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 6 AUSTRIA
+http://aptv.cc:8000/live/6751612969535740/1593574628/80838.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 3 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11945.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 4 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11944.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 5 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11943.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 6 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11942.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 7 HD
+http://aptv.cc:8000/live/6751612969535740/1593574628/11941.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", DE | SKY SPORT 9
+http://aptv.cc:8000/live/6751612969535740/1593574628/80836.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT 1
+http://aptv.cc:8000/live/6751612969535740/1593574628/45142.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT 2
+http://aptv.cc:8000/live/6751612969535740/1593574628/50529.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT 3
+http://aptv.cc:8000/live/6751612969535740/1593574628/45144.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT ESPN
+http://aptv.cc:8000/live/6751612969535740/1593574628/45145.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Premier League 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45146.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Football 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45147.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports F1 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45148.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Arena
+http://aptv.cc:8000/live/6751612969535740/1593574628/45149.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports NFL
+http://aptv.cc:8000/live/6751612969535740/1593574628/45150.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Cricket 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45151.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Golf 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45152.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Main Event 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45153.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Mix 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45154.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports News 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45155.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | Sky Sports Racing 
+http://aptv.cc:8000/live/6751612969535740/1593574628/45156.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT EXTRA 1
+http://aptv.cc:8000/live/6751612969535740/1593574628/45564.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT EXTRA 2
+http://aptv.cc:8000/live/6751612969535740/1593574628/45565.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", UK | BT SPORT EXTRA 3
+http://aptv.cc:8000/live/6751612969535740/1593574628/45566.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", LA | SKY SPORT 1 MX 
+http://aptv.cc:8000/live/6751612969535740/1593574628/57914.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", LA | SKY SPORT 2 MX
+http://aptv.cc:8000/live/6751612969535740/1593574628/57915.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT UNO [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52118.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT CALCIO [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52119.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT FOOTBALL [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52120.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT F1 [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52122.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT MOTO GP [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52121.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT ACTION [H265] 
+http://aptv.cc:8000/live/6751612969535740/1593574628/77735.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT ARENA [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52124.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT TENNIS [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52123.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT NBA [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52125.ts#EXTINF:-1 group-title="6751612969535740_aptv_c", IT | SKY SPORT 24 [H265]
+http://aptv.cc:8000/live/6751612969535740/1593574628/52126.ts#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Austria 3 HD [Match Time] AT
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/663531#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport F1 FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/687666#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport F1 HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/687667#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sports News FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/13555#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sports News HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/684431#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 1 FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/684432#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 1 HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/683895#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 1 DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/9125#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 1 [B] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/684429#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 2 FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/7362#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 2 HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/683896#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/13563#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6182#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/13562#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/9127#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 5 FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/13561#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/9126#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6181#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6180#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6179#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6178#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6177#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/684430#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/683408#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/683409#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/13538#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/73136#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/684005#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/62223#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/135258#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/135671#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/62220#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/91235#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/135335#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/62002#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/619225#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6198#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6197#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6196#EXTINF:-1 group-title="6hkmtse7hn_mytv_f", Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/6hkmtse7hn/wol6idtesa/6195#EXTINF:-1 tvg-id="" tvg-name="CRICKET | Sky Sports Cricket FHD" tvg-logo="data:image/jpeg;base64 group-title="7888_fasttv", /9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQQEhUQEhISFRUVFhYZGBcYGBUYFxYYFRcXGBYWGBcYHyggGBolHxUYIjEhJSkrLi4uFx8zODMtNygtLi0BCgoKDg0OGxAQGi0lICYtLS0yLy8tLy0tLS0tLS0tLS8tLS0tLSstLS0tLi0tLS0tLS0tLS0tLTUtLS0tLS0tLf/AABEIAIUBewMBIgACEQEDEQH/xAAcAAEAAwEAAwEAAAAAAAAAAAAABQYHBAEDCAL/xABNEAABAwICAwoJCAcIAwEBAAABAAIDBBESIQUGMQcVFkFRYXGBktITIjJSU1SRk6EUNXOCsbLC0TNCYnKDs8EjJCU0Q3Si8Bdj4eJE/8QAGwEBAAMBAQEBAAAAAAAAAAAAAAIDBAEFBgf/xAA4EQABBAEBBAcHAwMFAQAAAAABAAIDEQQSBSExURMUQWFxkaEiMlKBscHwctHhFTOiJEJic/Ej/9oADAMBAAIRAxEAPwDaURERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERRWs+nI6CnfUyAkNsA0bXucbNaOTp4gCqlorXKrqomzx/ImNdfxHCZzm2JBBIIBOXIvdu0/N38eL8SyfVXS5iJhJ8Vxu3mdsI6wB7OdbIIQ5l9tqtzqK17f8ArfPoexP3k3/rfPoexP3lSd9DyrxvoeVW9WHJR1q7b/1vnUPYn7y87/1vn0PYn7ypO+h5V06Mrsc0TDsdIxp6HOAP2ocYDsXdaucektJOGJraQt5RFUW9uJenhBW+fQ9mbvK7VmUb7cTHfAFYg3ShsM1RCwSXuXXGled/63z6HsT95N/63z6HsT95UjfQ8qb6HlV/VhyXNau+/wDW+dQ9mfvJv/W+fQ9ifvKkb6HlTfQ8qdXHJNau+/8AW+fQ9ifvLxv/AFvnUPYn7ypW+h5V430PKnVhyXNavcWm6wjN9F2Jj+Nezfis9JR+7m76pVNpQ228a9u+h5V408pZK5vIr3MfC1xNdXEK4b8VnpKL3c3fTfis9JR+7m76rNA6aoNoo3vttsMh0nYFMM1crD+o0dL2/wBLqsSvPAFdfixs3OIHku7fis9JR+7m76b8VnpKP3c3fXEdXKzzWdtq9Umgq1ufgr9D2fmu65ORURBAf9zfRSW/FZ6Sj93N3034rPSUfu5u+qeNJk5Keh0FWOAd4O1/Oc0H2XyXGyudwU34bI/foeNKS34rPSUfu5u+m/FZ6Si93N31w8Ha3zG9tv5r8u1frR/pg9D2fmu65ORVfQQfE30UhvxWeko/dzd9N+Kz0lH7ubvqs17poDaWN7L7LjI9B2Fcu+h5VEzuHFXjABFgBXDfis9JR+7m76b8VnpKP3c3fVVpKmSZwZG1z3HiaL9fMOdWKn1Yq3C7jGzmLiT/AMQR8V1sj3cAq5MWOP3yB+ea6N+Kz0lH7ubvpvxWeko/dzd9fiXVOpA8WSI813D+igNJxT036WNzRxO2tP1hkuuke3iFGPHhkNNIJVi34rPSUXu5u+m/FZ6Sj93N31T99DyqT0ZSVNSMUUZLb2xEhouNtiTn1KImcTQVj8FrBbqA71O78VnpKL3c3fTfis9JR+7m764eDlb5re21OD1b6NvbZ+alrk5FVdDB8TfRd2/FZ6Sj93N3034rPSUXu5u+oSs0fVwjE+F9hxts4f8AElRW+nOomZw4q1mE14ttHwoq4b8VnpKP3c3fTfis9JR+7m76iKLRVVMwSMj8V2YLnNbcctib2XTwdrfMb22/mpdJJyKrMEINFzfRd2/FZ6Sj93N3034rPSUXu5u+uDg7W+jb22/mnB2t8xvbb+aa5ORXOgh+Jvou/fis9JR+7m76b8VnpKP3c3fVc0qJaVwZMA1xGIWIOVyOLoX60dBUVGcUT3Dztje0bArnTOuu1W9TZp12K57qVh34rPSUfu5u+m/FZ6Sj93N31xDVus81g+uP6Lw7Vys81p+u3+q7rk5FVdDB8TfRd2/FZ6Si93N3034rPSUfu5u+oas0ZVwsdJJFZrRcnEw2HLkbqv6Q06YmF189jRyuOz8+pcMzgaKtZhMeLZR8FdNWtdxUVb6CVrBI3FgkZfBIWC7m4XXLSM+M3wlXNYFubXOk6cnMl0hJ5SYpLlb8tETi4b1jzoGwyAN5D9lQt2n5u/jxfiWEArd92n5u/jxfiWDr1cX+38yvLf7y0vc61WdpFhnmc5kLXYbttilcNuEnIAbCeW4HNp9PqTQsFvk7Xc7i5x/5FRu5FUMfouBrLXYZGvHGH+Ec436Q4O6HBerW/VzSFRKZaatLGWGGLE+PCQM/GZ5Vznnyql8jnyFpdpHz+ykGgN3C1NP1NoT/APyx9WIfYVmunaWGm0tDBTjCxstNcXLrPc8Ei7iTsLU0ho7TdO0kvqnNG0xymT4A4vgqvoJ5NZTlxJJqIbkkkk+FbcknO60wxkAu16t3Yqnv4CqX0RpD9FJ+4/7pXzayfIdAX0lpH9FJ+4/7pWZbmWpOTK6pbxAwxuHskePsHXyKjFkbGxzndyslaXEALq1O1CDmCetDruzbDctsOIvtnf8AZ4uPmselNSaSWJzI4WRPLTge0EFruIm20coK/euutcej4r5OleD4OPl/adyNHx2Lh3OdazXxOjmI8PH5WQGNhPivAHJsPVyqDnTOHS9ikNAOlY/VtfE90UgLXscWuHIRtXXoCgfWVEdOw2LzmfNaM3O6h8bK9brerdwNIRDNtmzAcbdjZOrYeYjkX73G9D2ZJWuGbz4OP91pu8jpdYfUW05A6HpBx+6p0HXp/KUzpDVXR9HSvlkhxCNhJc5z8biNmYIsSbDK21Yz8o6v6LR92TTdhHQsO20knQMo2nrueoLLrpiNcWanHikpGqgpOCo8VSur1MaupiguQHOzI2hoBLrc9gVXo3eKp7UnSTaashkebMxFrieIOBbfoBIXz2WB1l9/F9191hsd/TmOZx0bvGlutHSshYI42hrWiwA/7t51X6rXuhjcWGYuINjhY5wuNudrFWci/QVmuldy65LoJ7AkkNkbe3MHN4upXSF4HsBfOYbMV7j1lxHL72aPcp8bodAf9Vw+o/8AJc2ld0KlbG7wLnSSEENGBzRcjIkuAyVDr9QK6LNsQkHKxzT8HWPwVdq6WSJ2CVjozyOaWn47VnM0g4he5DsnBk3xvLu7UD9BandUpcVbTg5gyt+Bv/Rbsvn/AFLd/f6b6Vi+gCp4w9krFt5tTM8PuVUX7odECQXSXBI8g8WXKvbR6+UUrgzwpaSbAvaQO1aw61ilY443/vni5yvFLA+RzWRte4uNg1ouTfoVYyHr0TsHHq7cO8kfsPqF9G1dKyVhjkaHNcMwdn/edYnpzRb4Ks0jbuONoj5XB9sF/bY9BWz6IhdHBFG83cyNjXHnDQD9io9ewS6fib6ONpP7zWOePvNVs7NQC8nZcpjfIBvaGuPdu4H58Pmrfq/oVlHEI2AF1hjfxvdxk83IFHawa601G4xuL3vG1rLeLfZiJIAPNtVjqJMLXO80E+wXXzdU1LpXukcSXOeXHpcbn7V2V5jADV3ZmEMyR75SSB6k/n/i16h3S6V7g17ZYgf1nYS0dOE3A57K4SxslYWuDXseNhsQ4FfNmJbhua1hl0fEXG5YXM6gbt+BCjDKXGirdq7Njx2CWO+Nce6xXks61w0YaKpMYJwOGNhPmm+V+Mggj2LVdTQPkVNbjiaes5n7VT92ODxaaXjxvZ1EB34VcNTP8hTfRM+xI2BshAUc2Qy4MUh42QflYXq03rbT0bxFMXhxaHeK24sSRt6io8bo1D50o+of6KrbqlBLJVsMcUjx4Jou1j3C+KTK7RtVOZoSqJsKaa/0Un5Lj5nhxAWjE2XiyQMe928j4gPSlvmjNIxVEYlheHsN8xyjaCDmDzFZ5um6JZA+OpYMIkcWvA2YhniA5SL36FYtzfQ0tLTOEws6SQvw8YGFrRfnOG/sUXuw1AEEMX6zpC63M1jgT7XBTk9qL2gseG0R7QEcTrbZF8xX25qWZugUIAHhXZDzH/kpHQus1PWPcyBznOa3EbscMr2/WCwC6v8AuOf5mb6L8bFCOdznAFbMzY8EOO+RpdYHaRzA5LUNJVzKeJ00pIYwXcQCbC9tgzO1V87oVD6V3Yf+S69ffm+o/cH3mrBcSlLK5poLPszZsWVGXvJsGtxHIdxWnUM7NMaRxlpEMMY8U7XAOyDuS5eTbkatFkkZCwucWsYxtycg1rWj4ALItyjSLYqt0byB4VmFpPnNIcG9YLvYtZ0lRtnifC++GRpabZGx5DyrsO9pd2qnasYinbFvDABXh2nvN2q+/dCogbeFcecMdZG7oVCf9Vw+o/8AJVfSG5W/Mw1DHcgkaWntNuPgq5pDUiuhz8A54HHGWv8Ag3P4KBklHELZHhbNk92U/MgfVquGuGvVPJTPigc5xkFi4tc0NbfPyrXJ2ZcqyarqDIbnYNg/7xrzUtcHFr2uaRta4EEdIOa9NlU5xcbK9KHFjgboj4cd/arHubD/ABKn6ZP5T1vawfc4H+JU/S/+U9bwtMHu/NeFtgVMP0/cqhbtPzd/Hi/EsHW8btPzd/Hi/EsHXr4v9v5leE/3lNasa0VGjpDJTvFnWxscLsfbZccR5xmtH0fu1NNhPRuHPFI13weG/am49qrTTUrqueGOZ7pHNbjaHBjWWFg05XJub9Cvkupuj3baGl90wfYFXNLFqIc1Sa11WCvzqrrbTaTa91O5148ONr24XNxXw8xBwnMHiVH3S9Csh0jo+rjGEzVMTJAMg5zZIy19uUi4PLYLR6LR9NRRu8FHDBHtdhDWN6XH81keumtsdfpOhigdihgqIfHGyR7po7lv7IAsDx3PMqoRbyWcKP0XX8N62TSn6GX6N/3SqduUa2fL6QRyuvUQBrX8r228STrtY845wrXp2dsdNNI9wa1sUhJOQAwlfM2qenJNH1EVSz9TJ7fPYbY2H2XHOAkMXSMdz3UuudRC0ndq1YdcaRiLiLNZM25OG2TJByDOx6jyrNtX9OS0VRHUxElzDm0nJ7T5TDzEew2PEvpajqoK+nxsLZYZmEEbQQ4Wc1w4jxEcS+dtd9WXaNqnQG5jd40Tz+swnYT5zdh6jxq/Gk1Do3fgUHtreF9E6PrIa+mbK2z4pmbDxhws5rhyjMEcyUlPDQUwY3xYYIzmTchrBcknjO03Wd7hBn8FUAn+7h7cAN/0hF5MPNbDfnPSuzdt0/4GmZRsPj1Bu/miYRftOsOgOWYxf/Towe38+YCmHezayDT+mH1lTLVOJBleSBc+K3YxvU0AdSj8Z5T7V+UXqcBQVClaEnwYzO0r3L1UA/sx0ldDWEkAAkkgADaScgBzr5rL/vv8V+gbMH+ji/SFatXtf6mjaIzhmjGQa6+Jo5GuGdukFXOg3VKd2U0UsR5RaRv9HfBViDcwq3NDi6FpP6pe645jZtrrw/curRsdTn65H4UaZRwWKWPZkxJLhfMEj+Fp2jNaKSpIEVRGXHY0nC7susV2aV0XFVRmKZge08u0c7TtaecLKaXcvqy4F0kUYuPGD3OcOcANGfWthiZYAXJsALnabcavjc5w9oLxcyGCFzTjyavt81iGjNFmk0xFTkk4Z24T5zTctJ57H2grclkGkKts2n4yw5NljZflLBhd8QR1LXyowgCwOav2q5zuhc/iWAn1XP8AJI/Mj7LV+mxsZmAxvQAF851lTJjf47vKPG7lPOud0rjkXPPSSftUOsdy2DYBPGT0/lbnrFrpTUbT/aNkkt4sbCCb8WIjJo6VnOoek3S6VbNKbvmMt+S5YSAOYBth0Kn2suvRFcaeeOdu2N7Dbls7MdYuOtVOmLnAlb4tlMhhexm9zgRZ8DXqvourjxRvb5zXD2ghfM5aWktO0Gx6RkV9K0FayeNs0bg5jwCCOf8AqqFrTub+HldPTSNYXkucx4OHEdpa4bL7bWV8zC6iF4+ycqPHc5kpq68xe4+aye5W3blURbo9l/13vcOi9h9iqmj9yuZzh4aaNrOPDdziOa4AHTmtUoaRkEbIYxhYxoa0cgAsFGGMg2Qr9rZsMkYjide+zy3LP92eX+yp2cZkc7qDbfiVt1J/yFL9DH9iy3dO0y2pqgyM3bC0tBGwvJu8j2AfVK1PUv8AyFN9Ez7FJhBkNKjLiMeBEHcbJ89/0XXV6Wghdglnijda9nPa025bE7Ml3A3zCx3dhH98Z9Cz78ik9zPXDyaGd3NC8/ynH7D1ci703t6Sq37Ld1VuQw3usiuzu8FbdZ9b4KCwkEjnubiaxrT4w2eWfFHtusW1j05LXTGaXLKzWC+FrRsaOXnPGty1n0DHXQmJ+RGbHcbHcR6OUcYWD6W0ZJSyuglbhc09RHE5p42lVz6vl+cVv2I2BwJA9scb5cx9+3xC4rlaDuMH+8z/AEX42rP7LQdxof3mf6L8bVVF74Xo7Tb/AKSTwH1Cvm6D83VP7g+81YDdb9r/APN9R+5+JqwOynke8sWwhcDv1fYL8hxGYJBGYIJBBGwg8RV40JumVMDQyZrJ2jjJLX253AEO6x1qo6O0e+okbDE273GzR8SSeIAC91cf/FlXby6e/Jjf3VBmvi1bszqm5uQR3Xx9N/0tWmg3UaR+UrZoTztxt9rLn4K0aM07T1P6GaN55AfGHS05rKHbmFbxeAP1z3VLasbndTDURzySsaI3B3iuLnOt+rsAAOw8yva+S94Xi5GJs/QXRy0eV3/KvGs2rcVdEWSAB9jheB4zTxZ8Y5Rxr5/qISxzo3Czmuc1w5HNJa74gr6ZkkDQSTYAXJOwAbSvnDTFQJaiaVux8r3joe9zh8Co5IG4q7YTnu1sPuij4H+Raltzkf4hT9L/AOU9bssL3Ox/iEH7z/uOW6KeP7vzWfborIb+kfUqhbtPzd/Hi/EsHX0fuiaBfX0T4IiPCBzXsByDiw+TfiuCeuywqTVKuaSDR1Fx+wT8RkV6+K4aKvtXz8gNqLgq5I/IkkZ+49zfukLtbp+rGyrqvfS95e3grW+p1Hu3JwVrfU6j3bloLmniQoUVH1dbLN+lllk/fe9/3iV6Y3lpDmkggggg2IIzBBGwhS3BWt9TqPduTgrW+p1Hu3LupvMJRXFWaUnmFpZ5pByPke4dNnGy5FMcFa31Oo925OCtb6nUe7cuam8wlFcNDpGaC/gZpYr7cD3sv04SLpJNNUvaHPlmkcQ1uNznkucQA0FxNrkhd3BWt9TqPduUhoDRdfR1EdSygle6MktD43ltyCL5WzF8kLm8RXolFb3qvoZtBSRUwt/Ztu93nPOb3dZJXz1rvp35fWy1APiXwR/RsuG+3N31lddYdaNMVkLqcUEkLXizyxkheWna0E+SD0X51ROCtb6nUe7cs8DNJLnkWe8Kbze4KHRTHBWt9TqPduTgrW+p1Hu3LTqbzChRXjR36MdJUtoWsFPPFM5pLY3scQLXIYb2F+NedG6s1fgwDSzDM/6b10cGaz1WfsPXzeV/feRzX3+znRnBja5w90Dj3ea0yPdQpDtZUj6rD9jl7RumUX/uH1B/QrLuDNZ6rP2HpwYrPVZ+w9R6aT8CoOyMD4v8gtQk3TaIDITuPIGAfa4Ks6wbpkkrTHTMMQIsXuIMlv2bZNPPcqq8GKz1WfsPTgzWeqz9h6GV5FKcWzMCN2qwfFwP7eq9Wr9cKephneHFsb2uIGbjmSbXOZzWjaQ3UYgwiCGUvINi/AGg8ps4krPuDNZ6rP2HpwYrPVZ+w9Qa9zRQWjJxcTIeHykEj/l32opxubnacz0navFlLcGaz1WfsPTgzWeqz9h6hRWzpY/iHmFE2SyluDNZ6rP2HpwZrPVZ+w9KKdLH8Q8wvdq5rTUUJ/syHMJuWHNhPKONp5wr1R7qsRA8LBI08eBzHD/kWlZ/wZrPVZ+w9ODFZ6rP2HqbXvbwWLIw8Kd2p9XzBo+i0ebdSpwPFhqCefAB7cRVU1i3QqipaY4gIYzkcJJeRyF+Vuodag+DFZ6rP2HpwZrPVZ+w9dMjyK+yrh2fgRHUKJ7zf8KJHKtP0Fuh09PSxQujnc+ONrTYMwktFsiXbOpUbgzWeqz9h6cGaz1WfsPUWuc3gtGVDjZLQ2Vw3G/eX71s08a+czFmEYQGtvezRc5njNyVDgqV4M1nqs/YenBms9Vn7D1w2TZV0ZhjaGMcABw3q7atbpTWxiOrDy5uQkbZ2MDZjbe+LnF78y49etZaGui8USmVvkOwtaADta4k+SVVeDFZ6rP2HpwYrPVZ+w9TMjyKP0WFuBhtl6VjqN3udu8uXdwUVZWbUHWGOglkklEjg+PCMAaSDiBzuRyKO4M1nqs/YenBms9Vn7D1BpLTYWyYQTRmN7hR71atcNf21MDqaGJwD7Yi/DewINg1pO220lZ/ZS3Bms9Vn7D04M1nqs/Yeuuc5xsqGNFjY7NEZAHHja9+pmmmUNSJ5Guc3C4WFr3fbMXIHEfatFj3UKQ7WTj6sZ+x6zPgzWeqz9h6cGKz1WfsPUmyPaKH0VGThYeS/XI7fw3OpaiN02h/9w+p/wDV+J906jA8UTvPIGtb8XOCzHgxWeqz9h6cGKz1WfsPUumf+BZv6RgfF/kP2U3rXr9LWNMMTfBRuycL3c4cjnbAOYe1U6yluDNZ6rP2HpwZrPVZ+w9VuLnGyvSgZjQN0RloHiu3c7+cYOl/3Hrcllm55qpUNqG1M0bomMDrB2TnOc0tsBtAFybnkC1Ja4AQ3evl9uSMfkDQQaaBu8SiIiuXjoiIiIiIiIiIiIiIiIiIiIiKm7pWn3UsDYoyRJLfMbQwbbHiJuBfpUJHhjS4rRiYz8mZsLOJ/CfkpjSetdJTEtfO242hox25jhBt1r86M1spKghsc7bnYHXbfmF7XKo+qGogqYvlNS6QB/kBtrkec4uByPEAvGtuoRpwJqUyPzALLYni+wjAMx1LL08+nXpFetL3P6dsvperdM7Xwuhpvl+H5rVVBS65UbC5rqgBzSQRhkyINiPJX51JlndTNbUska9hwgvBBc3LCfGzvxdSy6n0e2p0mYZL4XzyA2NjbG45HqU5Z3ANLRx5qjZ+yopJJmzuNRi7bW/0PYtR4bUPrLezL3VJ6P0rBUX8FLHJbaGkEjpG0KtHc2o/On7TO4qAGu0bpHBG8nwcgz2XaSCWkc4NjzqLppYqMgFdysh2bgZgc3Fe7WBdOAo+nOvNbFpXS8NK0PneGNcbAkONza9vFB5F7NG6RjqYxLC/GwkgGxGYyORAKqG69/lY/pT9xy7NzWQN0e1xyAMhPQDcq0SnpjH2UsT8CMbOblAnUXVW6u3uvs5qyV9dHC3wk0jY28rjbqHKeZQfD6hvh8OenA+3tWdTyzaZrcIdYEmwPkxxg7bcvLykq4u3MabBhEkuO3lHDa/7ttnWqRPLJZjArvW52zMHEDW5sjtZF00D2fHcfzsVxoa2OZgfFI17TxtNx0cx5l6NLaagpcJmkDMd8Nw43ta/kg8qznVGgrKKtLBFK6PHgkIa7A5t7BwJyy2+0KQ3YvIp+mT7GqXWHdEX1RHiqxsiLr7McSamOFgirqia7VfaCtZPG2WN2JjthsRextsOfEvRpXTENKA6aVrA42F7km22wAJ61W9XtMx0ei4ZpD+q4NaPKe7E6zR/3JUulp6jTdUXk2YNpzwxsvk0c+fXtXX5BAaGi3Fcx9jtfLK6V2mKMuBd2mjW77+W9atonTcNVi8A/Ha1yGvAF9gu4AX5lxO11ogbGpbcfsy91SeiNGx00bYYm4Wt9pPG4njJWKat6MZV1zYJMWFzn3wmxyDiM+pJZZGaRusruz8DDyeneS4MYARwut93ursvuWr8NqH1lvZl7q6dGax01S/wcEwe4AutZ4yFgTmByhQn/jij5Z+23uKS0DqlT0UhlhMmItLfGc0jMg7AByBTaZ7GoClmnbsvo3dC6TVW6wKvvXmTXOiY4tdUAFpIIwyZEGxHkrxw2ofWW9mXurhqNzyke9znGa7nFx8Zu1xuf1OdZvSaHjfpH5IcXg/DOj2+Nha9zRny5KmSaZhFgbyvQw9n7MyWuLXyey2zw+dblrNNrfRyObGyoBc8hrRhkzJyAzapxVWg1BpYZGTMM2Jjg4Xc212m4v4qtS0xmT/fXyXi5bcQOHVi4jt1Vx+XciIisWSkRERKREREpERESkRERKRERERERERERERERERERERERERERERZVuv3+UQcngxbtPv/AEWqqm7pWr5qoWyxgmSK+Q2lh225SLA26VnymF0RAXr7CyGQZzHPNA2L8RuVh1at8jpsOzwMf3Qu6WUMF3ODRlmSAM8hmVleqOvgpYhT1DHkMvhc22IC/kkOIu0dK9Gueuny5gp4GvDMQLsVsTiPJFhewvnt22VfW4xHd764LU7YGXJmFhbTSSdW6q8+PctfCweokmbpB7qe/hRNJgsA43xHYDkcrrU9QdFyUtK1spdjccViScIOTRY7MsyOUrP9C/PDf9w/7zlDJJcIyd1nyWrYrWwOyg0h4a09m51X2cimkdbNKQHBM97CdmKJjCecHBn1KU1N1TdUSNr6iVrwTjsHYnOeCHeP5tjtG3iV51o0GytgdE6wcM4z5ruLqOwrMNUNMv0bVGGa4jLsEgN8iHWDur4jqUHs6OQdISW9i0Y+T1vDk6mxscoHtBrR7Te7t586PiCrZuu/5WP6U/ccvGqF95pcO3BUW7K8brhvSwkZgyfgcu/c1jDtHtacwXSA9ByKtq8lw7lhL9OxoncpPpaqu5Hb5VNfb4J1u3HdausUqIJ9DVoeG3AJwk+TIwnMX6NvIQrdLuoQYLthl8JbJpwBt+cg3t1KGNM2NhY80QrttYE+ZO3Ixm62vAoit3jy/LV6ZM0kgOBLdoBBI6RxLPd2PyKfpk+xqhNTqaorq75SS4APxyOaXNG3EGAjlsBbkCm92LyYOmT7GqUkvSwOdVBQwsAYW1YYteo0Sd3A6Tu7/wA3Kk6OoKmvbgYHOZCxxAzAAzdYc7j7epWvct0+I3miksA914zs8e1sJPOBl0c6te53C1tBCWgAuxE24ziIueXYFRN0TQho6gVEV2xyHECP1Xg3cOblHXyKro3QtbKDfP8APRegcyPPml2fIA0WQw/8m3Z8SbPZ2jibWwtWAaKgnkq8FMSJS5+Eh2E8d/G4srrYdTdPCtgDzbwjLNkH7VvKHMdvtHEso1Z0lHS14mlJDGufcgXOYcBkOcqeU5rzGb3H+Fk2HFLA3LYW29oG7jZ9qvEH1Csm82mvSy+//wD2rPqTQ1sRl+WPe4ENwYpMdrYsVszbaF4/8hUXnydj/wCrs0TrdTVUgiic8vIJALcrDM53VsbYg4Fr7PisWZNnSQubJjBo7SIyKog8VPLGtHfPQ/3T/wCaVsyxnR3z0P8AdP8A5pUcvizxUtg+5k/9Z+62VERbV86ERERERERERERERERERERERERERERERERERERERERERERERERERERFD6R1WpKgl0kDCTtIuwnpLCLrzozVilpjiigaCNhN3uHQXE2Uuih0bLuhfgtHWp9HR9I7Ty1GvK/47kULBqrSsm+UNitKHF+LE8+M4kk2LrcZU0i6WtPEKuOaSMEMcRe40SLHfSKF0nqtS1MnhpYQ55ABN3C9tlw0gE86mkRzQ4URaRSyRHVG4tPMEg+iiqzV2nmiZBIwujj8kFz8siNt7nI8ZXVorRsVLGIYW4WAkgXc7M5nNxJXWiBjQbAXXTyuZoc4lt3Vmr51zXPW0UczcEsbJG8jgCOnmKhRqPQ4sXycdGJ9vZiViRccxruItSiyp4RUb3NHcSPoV6aWlZC0RxMYxo2NaAB7AuTTGgoasNE7MeC+G5cLXtfySL7FIopFoIojcoMlex+triHcwSD58VzaNoI6eNsMbcLG3sLk2ub7Tnxr8aV0ZFVxmKdmNhINrkG42EEEELsRNIqqXBI8P1gnVd3e++d8VE6J1dp6R5khjLHEWNnSEEbcw4kda4Xai0JJJgzOflyd5WRFDoo6rSFeM7JDi4SOs8TqNmuHb2dirXAKh9B/zk7y69G6q0tNIJYYsLwCAQ55yORycSFNIgijBsNHkj8/Ke0tdK4g9hca+qKEi1UpWzfKGxWlxl+LE/yiS4m2K3GclNopFrTxCpjmkjvQ4i9xokWO+kREUlWiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIv/9k=" group-title="World | Cricket"
+http://fasttvuk.com:2086/7888/7888/63950#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY SPORTS 3 HD" tvg-logo="" group-title="World | Cricket" group-title="7888_fasttv", NZ | SKY SPORTS 3 HD
+http://fasttvuk.com:2086/7888/7888/235805#EXTINF:-1 group-title="287994003501_xcui_v", SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16749#EXTINF:-1 tvg-id="" tvg-name="CRICKET | Sky Sports Cricket FHD" tvg-logo="data:image/jpeg;base64 group-title="6738_fasttv", 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" group-title="World | Cricket"
+http://fasttvuk.com:2086/6738/6738/63950#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY SPORTS 3 HD" tvg-logo="" group-title="World | Cricket" group-title="6738_fasttv", NZ | SKY SPORTS 3 HD
+http://fasttvuk.com:2086/6738/6738/235805#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport F1 HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/687667#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sports News FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/13555#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sports News HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/684431#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 1 FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/684432#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 1 HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/683895#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 1 DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/9125#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 1 [B] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/684429#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 2 FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/7362#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 2 HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/683896#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/13563#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6182#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/13562#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/9127#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 5 FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/13561#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/9126#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6181#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6180#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6179#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6178#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6177#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/684430#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/683408#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/683409#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/13538#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/73136#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/684005#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/62223#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/135258#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/135671#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/62220#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/91235#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/135335#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/62002#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/619225#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6198#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6197#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6196#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6195#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Calcio FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686236#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Calcio HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686237#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Uno FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686213#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Uno HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686214#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Arena FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686215#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Arena HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686216#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Football FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686217#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Football HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686218#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 24 FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686211#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport 24 HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686212#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport F1 FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686225#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport F1 HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686227#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Moto GP FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686219#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Moto GP HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686220#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport NBA FHD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686223#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport NBA HD IT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/686224#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", ✽✽⭒ RMC Sports FR ⭒✽✽
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682960#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 1 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682956#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 1 HD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/625226#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 2 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682957#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 2 HD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682955#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 3 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682958#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 3 HD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/625233#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 4 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682959#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 4 HD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682961#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 5 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682962#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 6 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682963#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 7 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682964#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 8 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682965#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 9 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682967#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 10 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682966#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 11 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682968#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 12 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682969#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 13 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682970#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 14 [Match Time] FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/682971#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 1 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/625254#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 2 HD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/86352#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 3 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/625250#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", RMC Sport 4 FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/625253#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Canal+ Sport FHD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/16926#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Canal+ Sport HD FR
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/5696#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Austria FHD AT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/13560#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Austria AT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/6175#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Austria 2 HD [Match Time] AT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/663530#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Austria 3 HD [Match Time] AT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/663531#EXTINF:-1 group-title="6jxdcx1u3l_mytv_f", Sky Sport Austria 4 HD [Match Time] AT
+http://mytv.fun:8080/6jxdcx1u3l/19v8vjkq4l/663532#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT 1
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208752#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT 2
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208751#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 5
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208750#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 6
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208749#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 7
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208748#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 8
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208747#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 9
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208746#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 10
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208745#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 12
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208743#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 13
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208742#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| RMC SPORT LIVE 14
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208741#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR|FHD| CANAL+ SPORT
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/208681#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT 1 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199117#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT 1
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199116#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT 2 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199115#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT 2
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199114#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT 3
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199113#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT 4
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199112#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 5 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199111#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 5
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199110#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 6 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199109#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 6
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199108#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 7 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199107#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 7
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199106#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 8 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199105#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 8
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199104#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 9 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199103#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 9
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199102#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 10 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199101#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 10
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199100#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 11 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199099#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 11
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199098#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 12 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199097#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 12
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199096#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 13 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199095#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 13
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199094#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 14 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199093#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 14
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199092#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 15 HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199091#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| RMC SPORT LIVE 15
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199090#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", CSATHD-RMC SPORT 1.
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199053#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", CSATHD-RMC SPORT 2.
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/199052#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| CANAL+ SPORT HD
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/198990#EXTINF:-1 group-title="8eKfkaLX4P_txm_fl", |FR| CANAL+ SPORT
+http://txm.flysat.live:80/8eKfkaLX4P/RrzojqeGbc/198988#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Calcio FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686236#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Uno FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686213#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Uno HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686214#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Arena FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686215#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Arena HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686216#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Football FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686217#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Football HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686218#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 24 FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686211#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 24 HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686212#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport F1 FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686225#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport F1 HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686227#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Moto GP FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686219#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Moto GP HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686220#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport NBA FHD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686223#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport NBA HD IT
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/686224#EXTINF:-1 group-title="2yevt1779j_mytv_f", ✽✽⭒ RMC Sports FR ⭒✽✽
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682960#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 1 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682956#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 1 HD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/625226#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 2 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682957#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 2 HD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682955#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 3 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682958#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 3 HD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/625233#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 4 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682959#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 4 HD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682961#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 5 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682962#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 6 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682963#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 7 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682964#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 8 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682965#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 9 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682967#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 10 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682966#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 11 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682968#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 12 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682969#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 13 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682970#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 14 [Match Time] FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/682971#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 1 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/625254#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 2 HD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/86352#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 3 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/625250#EXTINF:-1 group-title="2yevt1779j_mytv_f", RMC Sport 4 FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/625253#EXTINF:-1 group-title="2yevt1779j_mytv_f", Canal+ Sport FHD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/16926#EXTINF:-1 group-title="2yevt1779j_mytv_f", Canal+ Sport HD FR
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/5696#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport F1 FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/687666#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport F1 HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/687667#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sports News FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/13555#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sports News HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/684431#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 1 FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/684432#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 1 HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/683895#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 1 DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/9125#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 1 [B] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/684429#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 2 FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/7362#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 2 HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/683896#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/13563#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6182#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/13562#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/9127#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 5 FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/13561#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/9126#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6181#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6180#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6179#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6178#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6177#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/684430#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/683408#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/683409#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/13538#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/73136#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/684005#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/62223#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/135258#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/135671#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/62220#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/91235#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/135335#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/62002#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/619225#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6198#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6197#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6196#EXTINF:-1 group-title="2yevt1779j_mytv_f", Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/2yevt1779j/iicpxkzgzu/6195#EXTINF:-1 group-title="111_a_stro", RMC Sport 4K
+http://a.stroj-bt.com:89/111/111/24926
