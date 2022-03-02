@@ -1352,13 +1352,11 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/5709
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/5708
 #EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 3 HD FR
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12957
-#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 4 Max FHD FR
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/694193
-#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 5 Max FHD FR
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/694194
-#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 6 Max HD FR
+#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 4 Max FR
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8562
+#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 6 Max FR
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8538
-#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 7 Max HD FR
+#EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 7 Max FR
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8537
 #EXTINF:-1 group-title="✽✽⭒ FR Des sports ⭒✽✽",beIN Sports 8 Max HD FR
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12956
@@ -1904,8 +1902,6 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6196
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6195
 #EXTINF:-1 group-title="✽✽⭒ DE Sports ⭒✽✽",DAZN 1 FHD DE
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/661090
-#EXTINF:-1 group-title="✽✽⭒ DE Sports ⭒✽✽",DAZN 1 [B] FHD DE
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/694188
 #EXTINF:-1 group-title="✽✽⭒ DE Sports ⭒✽✽",DAZN 1 HD DE
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/625243
 #EXTINF:-1 group-title="✽✽⭒ DE Sports ⭒✽✽",DAZN 1 [B] HD DE
@@ -2302,12 +2298,16 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7725
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7722
 #EXTINF:-1 group-title="########## KURD ##########",BMC HD KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12470
+#EXTINF:-1 group-title="########## KURD ##########",Falcon HD KRD
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12463
 #EXTINF:-1 group-title="########## KURD ##########",Cira KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20726
 #EXTINF:-1 group-title="########## KURD ##########",Gali Kurdistan KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20719
 #EXTINF:-1 group-title="########## KURD ##########",Kurdistan TV KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20718
+#EXTINF:-1 group-title="########## KURD ##########",I Movies KRD
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20716
 #EXTINF:-1 group-title="########## KURD ##########",K24 KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20712
 #EXTINF:-1 group-title="########## KURD ##########",Kanal4 KRD
@@ -2348,6 +2348,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20681
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20680
 #EXTINF:-1 group-title="########## KURD ##########",Sterk KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20678
+#EXTINF:-1 group-title="########## KURD ##########",Vin HD KRD
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20676
 #EXTINF:-1 group-title="########## KURD ##########",Waar TV FHD KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/20675
 #EXTINF:-1 group-title="########## KURD ##########",Suroyo TV KRD
@@ -2358,6 +2360,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/627070
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/672045
 #EXTINF:-1 group-title="########## KURD ##########",Afarin TV KRD
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/672046
+#EXTINF:-1 group-title="########## KURD ##########",Tishk TV KRD
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/672670
 #EXTINF:-1 group-title="✽✽✽✽ Netherlands ✽✽✽✽",✽✽✽✽ Netherlands ✽✽✽✽
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/5166
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",✽✽⭒ Main & Regional ⭒✽✽
@@ -2672,6 +2676,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/682909
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7527
 #EXTINF:-1 group-title="------- Religious -------",Rede TV PT
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8797
+#EXTINF:-1 group-title="------- Religious -------",Santuario Fatima PT
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8972
 #EXTINF:-1 group-title="------- Sports -------",------- Sports -------
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/682900
 #EXTINF:-1 group-title="------- Sports -------",BTV 1 FHD PT
@@ -2686,8 +2692,6 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7519
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7518
 #EXTINF:-1 group-title="------- Sports -------",Eleven Sport 1 HD PT
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/51927
-#EXTINF:-1 group-title="------- Sports -------",Eleven Sport 2 FHD PT
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/694190
 #EXTINF:-1 group-title="------- Sports -------",Eleven Sport 2 HD PT
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/51926
 #EXTINF:-1 group-title="------- Sports -------",Eleven Sport 3 PT
@@ -6108,8 +6112,6 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/694114
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/677160
 #EXTINF:-1 group-title="✽✽⭒ USA Sports ⭒✽✽",NBC Sports Chicago HD VIP US
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/677161
-#EXTINF:-1 group-title="✽✽⭒ USA Sports ⭒✽✽",NBC Sports Chicago Plus VIP US
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/694186
 #EXTINF:-1 group-title="✽✽⭒ USA Sports ⭒✽✽",NBC Sports Washington HD US
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/677165
 #EXTINF:-1 group-title="✽✽⭒ USA Sports ⭒✽✽",NBC Golf FHD US
@@ -6608,6 +6610,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12140
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6831
 #EXTINF:-1 group-title="########## Africa ##########",Africa 24 AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6836
+#EXTINF:-1 group-title="########## Africa ##########",Al Jazeera Mubasher AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12093
 #EXTINF:-1 group-title="########## Africa ##########",Arise News AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12108
 #EXTINF:-1 group-title="########## Africa ##########",Canal CVV International TV CD
@@ -6620,6 +6624,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12090
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12127
 #EXTINF:-1 group-title="########## Africa ##########",GH Canada TV HD GH
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12149
+#EXTINF:-1 group-title="########## Africa ##########",Impact TV [Burkina Faso] AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12097
 #EXTINF:-1 group-title="########## Africa ##########",Novelas TV AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12165
 #EXTINF:-1 group-title="########## Africa ##########",Resurrection TV GH
@@ -6630,6 +6636,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12084
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12152
 #EXTINF:-1 group-title="########## Africa ##########",Trace Africa AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12164
+#EXTINF:-1 group-title="########## Africa ##########",Trace Gospel AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12161
 #EXTINF:-1 group-title="########## Africa ##########",Trace Mizki AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12163
 #EXTINF:-1 group-title="########## Africa ##########",Trace Naija AF
@@ -6646,20 +6654,32 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/12914
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6826
 #EXTINF:-1 group-title="########## Africa ##########",Congo TV AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6822
+#EXTINF:-1 group-title="########## Africa ##########",KTN AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6771
 #EXTINF:-1 group-title="########## Africa ##########",Mourchid TV AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6777
+#EXTINF:-1 group-title="########## Africa ##########",Music TV AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6773
 #EXTINF:-1 group-title="########## Africa ##########",RTb AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6795
+#EXTINF:-1 group-title="########## Africa ##########",RTNC AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6786
 #EXTINF:-1 group-title="########## Africa ##########",RTP Africa AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6794
 #EXTINF:-1 group-title="########## Africa ##########",RTS2 AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6798
+#EXTINF:-1 group-title="########## Africa ##########",RTV AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6793
+#EXTINF:-1 group-title="########## Africa ##########",Sudan Drama AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6801
 #EXTINF:-1 group-title="########## Africa ##########",Somali TV AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6803
 #EXTINF:-1 group-title="########## Africa ##########",Touba TV AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6791
 #EXTINF:-1 group-title="########## Africa ##########",Universal TV AF
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6780
+#EXTINF:-1 group-title="########## Africa ##########",Walf TV SN AF
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6808
 #EXTINF:-1 group-title="########## Africa ##########",Rok TV NG
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/35467
 #EXTINF:-1 group-title="########## Africa ##########",DTV AF
@@ -7264,8 +7284,14 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16260
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7213
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",LA Sexta ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6671
+#EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",Canal #0 HD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16283
+#EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",Canal #0 ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13539
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",24 Horas ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7174
+#EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",DW ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13532
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",Tele Madrid ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/679745
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",TV Galicia ES
@@ -7288,10 +7314,6 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8745
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/683544
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",DAZN 2 HD VIP ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/683545
-#EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",DAZN F1 FHD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7246
-#EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",DAZN F1 HD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13549
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",Movistar La Liga HD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/669971
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",Movistar La Liga FHD ES
@@ -7308,6 +7330,10 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/620685
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16278
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",Movistar Deportes HD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7240
+#EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",DAZN F1 FHD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7246
+#EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",DAZN F1 HD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13549
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",Movistar Golf FHD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7237
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",Movistar Golf HD ES
@@ -7326,10 +7352,24 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8746
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13531
 #EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",Toros HD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13548
-#EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",ETB 1 HD ES
+#EXTINF:-1 group-title="✽✽⭒ ES Sports ⭒✽✽",ETB SAT 1 HD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/684922
 #EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",✽✽⭒ ES Movies & Series ⭒✽✽
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/679812
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",AXN HD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7252
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",AXN White HD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13542
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",AMC FHD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7255
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",SyFy FHD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13522
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Fox FHD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16267
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",TNT FHD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7177
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Sundance TV ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/14121
 #EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar Series FHD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7191
 #EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar Series 2 FHD ES
@@ -7350,24 +7390,10 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7194
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7192
 #EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar Estrenos ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7222
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar #0 FHD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13539
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar #0 HD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16283
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",AXN HD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7252
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",AXN White HD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13542
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",AMC FHD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7255
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",SyFy FHD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13522
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Fox FHD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16267
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",TNT FHD ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7177
-#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Sundance TV ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/14121
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar Los Goya FHD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/16279
+#EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Movistar Los Goya HD ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7193
 #EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Neox TV FHD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7186
 #EXTINF:-1 group-title="✽✽⭒ ES Movies & Series ⭒✽✽",Neox TV HD ES
@@ -7428,6 +7454,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13527
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/679813
 #EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",Discovery Channel ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7226
+#EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",Discovery Dmax ES
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13535
 #EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",National Geographic HD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13528
 #EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",National Geographic FHD ES
@@ -7440,8 +7468,6 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7217
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7244
 #EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",DeCasa ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/7241
-#EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",Dmax ES
-http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13535
 #EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",Dkiss HD ES
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/13533
 #EXTINF:-1 group-title="✽✽⭒ ES Documentary ⭒✽✽",Be Mad TV ES
@@ -8036,6 +8062,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/668093
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/688615
 #EXTINF:-1 group-title="------- Movies & Series -------",Blue Prime FHD CH
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/9005
+#EXTINF:-1 group-title="------- Movies & Series -------",Blue Emotion FHD CH
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/668094
 #EXTINF:-1 group-title="------- Movies & Series -------",Comedy Central FHD CH
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/688616
 #EXTINF:-1 group-title="------- Documentary -------",------- Documentary -------
@@ -8046,6 +8074,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8996
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/688612
 #EXTINF:-1 group-title="------- Children -------",------- Children -------
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/688742
+#EXTINF:-1 group-title="------- Children -------",Disney Junior HD CH
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/688617
 #EXTINF:-1 group-title="------- Children -------",Nickelodeon CH
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/688619
 #EXTINF:-1 group-title="########## Hungary ##########",########## Hungary ##########
@@ -8268,6 +8298,8 @@ http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/6175
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/663530
 #EXTINF:-1 group-title="✽✽✽✽ Austria ✽✽✽✽",Sky Sport Austria 3 HD [Match Time] AT
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/663531
+#EXTINF:-1 group-title="✽✽✽✽ Austria ✽✽✽✽",Sky Sport Austria 4 HD [Match Time] AT
+http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/663532
 #EXTINF:-1 group-title="✽✽✽✽ Canada ✽✽✽✽",✽✽✽✽ Canada ✽✽✽✽
 http://mytv.fun:8080/x5k8k2lgtk/lmbjvegv3/8138
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",✽✽⭒ Main & Regional ⭒✽✽
