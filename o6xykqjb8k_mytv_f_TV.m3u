@@ -1862,7 +1862,7 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5913
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4117
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Disney Channel HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/35465
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN WWE HD ARB
+#EXTINF:-1 group-title="------- OSN Arabic -------",OSN WWE HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8860
 #EXTINF:-1 group-title="------- UAE -------",------- UAE -------
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/685748
@@ -2566,8 +2566,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686052
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686206
 #EXTINF:-1 group-title="----- Main & Regional -----",Rete 4 FHD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686038
-#EXTINF:-1 group-title="----- Main & Regional -----",Rete 4 IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686039
 #EXTINF:-1 group-title="----- Main & Regional -----",Italia 1 FHD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686044
 #EXTINF:-1 group-title="----- Main & Regional -----",Italia 1 HD IT
@@ -2700,8 +2698,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686276
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686277
 #EXTINF:-1 group-title="------ Sports ------",Rai Sport+ FHD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686209
-#EXTINF:-1 group-title="------ Sports ------",Rai Sport+ HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686210
 #EXTINF:-1 group-title="------ Sports ------",Uniresat IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686283
 #EXTINF:-1 group-title="------ Sports ------",Top Calcio 24 IT
@@ -2802,10 +2798,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686134
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686308
 #EXTINF:-1 group-title="----- Movies & Series -----",Sky Primafila 12 HD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686309
-#EXTINF:-1 group-title="----- Movies & Series -----",Sky Primafila 14 HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686307
-#EXTINF:-1 group-title="----- Movies & Series -----",Sky Primafila 15 HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686304
 #EXTINF:-1 group-title="----- Movies & Series -----",Sky Atlantic FHD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686155
 #EXTINF:-1 group-title="----- Movies & Series -----",Sky Atlantic HD IT
@@ -2830,8 +2822,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686203
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686179
 #EXTINF:-1 group-title="------- Documentary --------",Sky Investigation FHD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686189
-#EXTINF:-1 group-title="------- Documentary --------",Sky Investigation HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686186
 #EXTINF:-1 group-title="------- Documentary --------",Crime Investigation IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686201
 #EXTINF:-1 group-title="------- Documentary --------",National Geographic FHD IT
