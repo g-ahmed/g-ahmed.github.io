@@ -1,6 +1,4 @@
-#EXTM3U#EXTINF:-1 group-title="✽✽✽✽ France ✽✽✽✽",✽✽✽✽ France ✽✽✽✽
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5718
-#EXTINF:-1 group-title="✽✽⭒ Principal et régional⭒✽✽",✽✽⭒ Principal et régional⭒✽✽
+#EXTM3U#EXTINF:-1 group-title="✽✽⭒ Principal et régional⭒✽✽",✽✽⭒ Principal et régional⭒✽✽
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/678944
 #EXTINF:-1 group-title="✽✽⭒ Principal et régional⭒✽✽",TF1 FHD FR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/12857
@@ -426,8 +424,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/7940
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5652
 #EXTINF:-1 group-title="✽✽⭒ FR Musique ⭒✽✽",Djazz TV FHD FR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/7939
-#EXTINF:-1 group-title="✽✽✽✽ Germany ✽✽✽✽",✽✽✽✽ Germany ✽✽✽✽
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/6267
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",✽✽⭒ Main & Regional ⭒✽✽
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/678832
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",Das Erste HD DE
@@ -934,6 +930,10 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/6227
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/9136
 #EXTINF:-1 group-title="✽✽⭒ Documentary ⭒✽✽",Nat Geo Wild DE
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5085
+#EXTINF:-1 group-title="✽✽⭒ Documentary ⭒✽✽",Sky Nature FHD DE
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/694399
+#EXTINF:-1 group-title="✽✽⭒ Documentary ⭒✽✽",Sky Documentaries FHD DE
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/694398
 #EXTINF:-1 group-title="✽✽⭒ Documentary ⭒✽✽",HGTV DE
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/688723
 #EXTINF:-1 group-title="✽✽⭒ Documentary ⭒✽✽",Welt der Wunder HD DE
@@ -1016,8 +1016,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/6255
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14200
 #EXTINF:-1 group-title="✽✽⭒ DE Music ⭒✽✽",Deutsches Musik Fernsehen DE
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/13165
-#EXTINF:-1 group-title="✽✽✽✽ Sports ✽✽✽✽",✽✽✽✽ Sports ✽✽✽✽
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5427
 #EXTINF:-1 group-title="✽✽⭒ SuperSport PPV Events ⭒✽✽",✽✽⭒ SuperSport PPV Events ⭒✽✽
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689616
 #EXTINF:-1 group-title="✽✽⭒ SuperSport PPV Events ⭒✽✽",SuperSport Action FHD VIP AF
@@ -1336,8 +1334,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5430
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5429
 #EXTINF:-1 group-title="✽✽⭒ Global Sports IN ⭒✽✽",Sony Six IN
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5436
-#EXTINF:-1 group-title="✽✽✽✽ Switzerland ✽✽✽✽",✽✽✽✽ Switzerland ✽✽✽✽
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/7910
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",✽✽⭒ Main & Regional ⭒✽✽
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/688738
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",SRF 1 HD CH
@@ -1452,8 +1448,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/688612
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/688742
 #EXTINF:-1 group-title="✽✽⭒ CH Children ⭒✽✽",Nickelodeon CH
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/688619
-#EXTINF:-1 group-title="✽✽✽✽ Spain ✽✽✽✽",✽✽✽✽ Spain ✽✽✽✽
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/7257
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",✽✽⭒ Main & Regional ⭒✽✽
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/679810
 #EXTINF:-1 group-title="✽✽⭒ Main & Regional ⭒✽✽",LA1 FHD ES
@@ -1776,36 +1770,18 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/685771
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14865
 #EXTINF:-1 group-title="------- OSN Arabic -------",BBC Arabic AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4110
-#EXTINF:-1 group-title="------- OSN Arabic -------",Art Aflam 1 AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5841
-#EXTINF:-1 group-title="------- OSN Arabic -------",Art Aflam 2 AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5840
-#EXTINF:-1 group-title="------- OSN Arabic -------",Art Hekayat 1 AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5838
-#EXTINF:-1 group-title="------- OSN Arabic -------",Art Hekayat 2 AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5837
+#EXTINF:-1 group-title="------- OSN Arabic -------",Sky News HD AR
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/694427
+#EXTINF:-1 group-title="------- OSN Arabic -------",CNBC Arabia HD AR
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/694428
 #EXTINF:-1 group-title="------- OSN Arabic -------",Cartoon Network AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5789
 #EXTINF:-1 group-title="------- OSN Arabic -------",Dzair News AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8916
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Ya Hala FHD ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8855
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Ya Hala HD ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5908
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Ya Hala Al Oula FHD AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8848
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Yahala Cinema HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8862
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Ya Hala Cinema AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5910
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Action 2 AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5901
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Al Yawm HD AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8879
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Animal Planet AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5911
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Art Cinema AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8881
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Box Office 1 AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5897
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Box Office 3 AR
@@ -1836,8 +1812,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5916
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8871
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies Box Office 2 HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8869
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies Comedy AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5905
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies Drama HD ARB
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4123
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies Drama AR
@@ -1846,20 +1820,10 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5892
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5917
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies First HD ARB
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4121
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Series First HD AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8844
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies HD AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8868
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies Kids HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4119
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Movies Premiere ARB
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5899
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Star Movies ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5914
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Star World ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5913
-#EXTINF:-1 group-title="------- OSN Arabic -------",OSN Music Now AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4117
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN Disney Channel HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/35465
 #EXTINF:-1 group-title="------- OSN Arabic -------",OSN WWE HD AR
@@ -2008,8 +1972,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4109
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8843
 #EXTINF:-1 group-title="------- UAE -------",RT Arabic AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/4145
-#EXTINF:-1 group-title="------- UAE -------",Sky News Arabia AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5830
 #EXTINF:-1 group-title="------- Saudi Arabia -------",------- Saudi Arabia -------
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/685749
 #EXTINF:-1 group-title="------- Saudi Arabia -------",Saudi 1 HD AR
@@ -2030,8 +1992,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/623167
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/679666
 #EXTINF:-1 group-title="------- Saudi Arabia -------",KSA Sport 4 FHD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/679667
-#EXTINF:-1 group-title="------- Saudi Arabia -------",ART Cinema ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14825
 #EXTINF:-1 group-title="------- Saudi Arabia -------",Al Ekhbariya HD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8898
 #EXTINF:-1 group-title="------- Saudi Arabia -------",Al Resalah AR
@@ -2492,8 +2452,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14795
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5825
 #EXTINF:-1 group-title="------- General Arabic -------",Star Cinema 2 AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5824
-#EXTINF:-1 group-title="------- General Arabic -------",Art Cinema AR
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5839
 #EXTINF:-1 group-title="------- General Arabic -------",M Cinema TV AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14793
 #EXTINF:-1 group-title="------- General Arabic -------",Time Cinema AR
@@ -2944,8 +2902,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/6175
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/663530
 #EXTINF:-1 group-title="✽✽✽✽ Austria ✽✽✽✽",Sky Sport Austria 3 HD [Match Time] AT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/663531
-#EXTINF:-1 group-title="✽✽✽✽ United Kingdom ✽✽✽✽",✽✽✽✽ United Kingdom ✽✽✽✽
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/692255
 #EXTINF:-1 group-title="✽✽⭒ UK Sports ⭒✽✽",✽✽⭒ UK Sports ⭒✽✽
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/692254
 #EXTINF:-1 group-title="✽✽⭒ UK Sports ⭒✽✽",Sky Sports Main Event FHD VIP UK
