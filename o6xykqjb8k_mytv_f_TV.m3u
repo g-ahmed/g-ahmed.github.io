@@ -1010,6 +1010,8 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/13165
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689616
 #EXTINF:-1 group-title="✽✽⭒ SuperSport PPV Events ⭒✽✽",SuperSport Action FHD VIP AF
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/683568
+#EXTINF:-1 group-title="✽✽⭒ SuperSport PPV Events ⭒✽✽",SuperSport Action HD VIP AF
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/694748
 #EXTINF:-1 group-title="✽✽⭒ SuperSport PPV Events ⭒✽✽",SuperSport Grandstand HD VIP AF
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/678031
 #EXTINF:-1 group-title="✽✽⭒ SuperSport PPV Events ⭒✽✽",SuperSport Variety 1 FHD VIP AF
@@ -2050,8 +2052,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14675
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14745
 #EXTINF:-1 group-title="------- Egypt -------",Al Ghad Al Mushreq AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14692
-#EXTINF:-1 group-title="------- Egypt -------",Al Ghad Araby ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14693
 #EXTINF:-1 group-title="------- Egypt -------",Al Hayat FHD AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/5788
 #EXTINF:-1 group-title="------- Egypt -------",Al Hayat AR
@@ -2466,8 +2466,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14880
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14837
 #EXTINF:-1 group-title="------- General Arabic -------",Karameesh AR
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/8926
-#EXTINF:-1 group-title="------- General Arabic -------",Karbala TV ARB
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14738
 #EXTINF:-1 group-title="------- General Arabic -------",Mazazik TV ARB
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/14731
 #EXTINF:-1 group-title="------- General Arabic -------",Mosalsalat Tube AR
@@ -2576,12 +2574,6 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686261
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686262
 #EXTINF:-1 group-title="------ Sports ------",DAZN 6 HD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686264
-#EXTINF:-1 group-title="------ Sports ------",DAZN 7 HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686265
-#EXTINF:-1 group-title="------ Sports ------",DAZN 8 HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686266
-#EXTINF:-1 group-title="------ Sports ------",DAZN 9 HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686267
 #EXTINF:-1 group-title="------ Sports ------",Sky Sport Calcio FHD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686236
 #EXTINF:-1 group-title="------ Sports ------",Sky Sport Calcio HD IT
@@ -2704,12 +2696,8 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686136
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686123
 #EXTINF:-1 group-title="----- Movies & Series -----",Sky Cinema Suspense HD IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686124
-#EXTINF:-1 group-title="----- Movies & Series -----",Premium Cinema+24 HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686138
 #EXTINF:-1 group-title="----- Movies & Series -----",Premium Crime IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686145
-#EXTINF:-1 group-title="----- Movies & Series -----",Premium Crime HD IT
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686146
 #EXTINF:-1 group-title="----- Movies & Series -----",Premium Action IT
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/686143
 #EXTINF:-1 group-title="----- Movies & Series -----",Premium Action HD IT
