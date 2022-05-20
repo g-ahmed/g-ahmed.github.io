@@ -1637,4 +1637,23 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/692607.m3u8
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/692609.m3u8
 #EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="MTV Music UK" tvg-logo="https://i.postimg.cc/sxxB3Gx7/MTV_Music_2021.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",MTV Music UK
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/692610.m3u8
-#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="MTV Hits VIP UK" tvg-logo="https://i.postimg.cc/52LX9V47/MTV_H
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="MTV Hits VIP UK" tvg-logo="https://i.postimg.cc/52LX9V47/MTV_Hits_2021.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",MTV Hits VIP UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692611.m3u8
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="MTV Base HD VIP UK" tvg-logo="https://i.postimg.cc/bN2JLhty/MTV_Base_UK_2021.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",MTV Base HD VIP UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692612.m3u8
+#EXTINF:-1 tvg-id="mtv80s.ro" tvg-name="MTV 80s VIP UK" tvg-logo="https://i.postimg.cc/ht17bBkJ/Mtv_80s_logo.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",MTV 80s VIP UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692613.m3u8
+#EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90s VIP UK" tvg-logo="https://i.postimg.cc/8CCgm7Kg/Mtv-90s-logo.png" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",MTV 90s VIP UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692615.m3u8
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="Clubland TV VIP UK" tvg-logo="https://i.postimg.cc/yYXN2Tvt/Clubland-TV-inverted-colours.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",Clubland TV VIP UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692622.m3u8
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="Kerrang TV UK" tvg-logo="https://i.postimg.cc/65YXdbHW/Kerrang!.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",Kerrang TV UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692624.m3u8
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="Kiss UK" tvg-logo="https://i.postimg.cc/V6qy5Krc/Kiss.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",Kiss UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692625.m3u8
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="Magic VIP UK" tvg-logo="https://i.postimg.cc/T3pZndL0/Magic.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",Magic VIP UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692626.m3u8
+#EXTINF:-1 tvg-id="thebox.uk" tvg-name="The Box UK" tvg-logo="https://i.postimg.cc/26fMpnH9/The_Box.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",The Box UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692627.m3u8
+#EXTINF:-1 tvg-id="boxhits.uk" tvg-name="Box Hits UK" tvg-logo="https://i.postimg.cc/VsgTTrX4/Box-hits.jpg" group-title="United Kingdom" group-title="✽✽⭒ UK Music ⭒✽✽",Box Hits UK
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692628.m3u8
