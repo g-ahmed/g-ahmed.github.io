@@ -123,3 +123,5 @@ http://mytv.fun:8080/movie/4yeolltsx/m7faw5s3xd/687121.mkv
 http://mytv.fun:8080/movie/BullyT/he861ksb0e/687121.mkv
 #EXTINF:-1,alkass2
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz2.smil/playlist.m3u8
+#EXTINF:-1,alkass1
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz1.smil/playlist.m3u8
